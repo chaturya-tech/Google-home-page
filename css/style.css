@@ -87,14 +87,14 @@ nav button{
               0 0 4px rgba(0,0,0,0.05),
               0 0 5px rgba(0,0,0,0.05)
 }
-.s-box .search-bar{
+.s-box .search-icon{
   width:20px;
   opacity: .4;
   position:absolute;
   top:13px;
   left:14px;
 }
-.s-box .mic {
+.s-box .mic-icon {
   width: 14px;
   position:absolute;
   top:13px;
